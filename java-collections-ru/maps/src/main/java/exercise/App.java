@@ -36,6 +36,8 @@ class App {
         return str.toString();
     }
 
-    public static void main(String[] args) {}
+    public static void main(String[] args) {
+
+    }
 }
 //END
